@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    display:flex;
+    gap: 232.5px;
+    padding: 21.84px 0px;
+    margin-left: 165px;
+        margin-right: 165px;
+
+
+}
+.list ul {
+    display: flex;
+    gap:60px;
+    list-style-type: none;
+}
+.icons ul{
+    display: flex;
+}
+.imgs{
+    list-style-type: none;
+
+}
+.icons li{
+ display: flex;
+    gap:24px;
+}
+.Collection-section{
+    margin-left: 165px;
+        margin-right: 165px;
+    display: flex;
+    text-align: center;
+    margin-top: 80px;
+    gap:30px;
+        margin-top: 23px;;
+
+
+}
+.collection img{
+    width: 100%;
+}
+.collection{
+    width:calc((100%-90px)/4)
+
+}
